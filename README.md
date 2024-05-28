@@ -1,2 +1,2 @@
 # MyCodeCorner
-# Welcome to my CodeCorner, I have made thia as code-space.
+# Welcome to my CodeCorner, I have made this for, as code-space.
